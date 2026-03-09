@@ -31,16 +31,6 @@ The tool verifies key theorems, including:
 
 ---
 
-## 🖼️ Screenshots
-
-![Hamiltonian Path Visualization](screenshots/hamiltonian_graph.png)
-![Adjacency Matrix Heatmap](screenshots/adjacency_heatmap.png)
-![Batch Analysis Results](screenshots/batch_results.png)
-![Detailed Results Table](screenshots/results_table.png)
-![HTML Report](screenshots/html_report.png)
-
----
-
 ## 🏗️ Tech Stack
 
 | Purpose | Library |
